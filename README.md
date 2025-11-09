@@ -10,4 +10,7 @@ The Time is in ms.
 It should load two windows of the function with the values that you have put in and should show two waves. One moving and another not moving so that you can look at the graph and properly examine it. The Goal is to have a thorough understanding onto why each value is important.
 
 
+Most of it is made using Matplotlib, so if you want to go more in depth and change aspects of it. Look at https://matplotlib.org/stable/.
+
+
 Have Fun 😎
